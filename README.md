@@ -5,5 +5,5 @@ Exploring Etsy APIs
 + Pull down as much info on listings as possible to understand the data model
 + Maybe start a sample shop and compare the metadata from a buyer's perspective vs. a seller's perspective
 
-[Binder URL](https://hub.gke2.mybinder.org/user/patrick-still-etsy-cp9r169k/)
+[Binder URL](https://mybinder.org/v2/gh/patrick-still/etsy/HEAD)
 + Binder seems to be less ephemeral than last time I worked with it
